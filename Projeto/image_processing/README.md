@@ -10,6 +10,8 @@ Este projeto oferece funcionalidades básicas para processamento de imagens usan
 
 ---
 
+Autor: João Vitor
+
 ## Como usar
 
 1. Certifique-se de ter as dependências instaladas:
