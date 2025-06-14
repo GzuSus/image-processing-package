@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gzusus_image_processing"
+version = "0.1.0"
+description = "Pacote para processamento de imagens em Python"
+authors = [
+    { name = "João Vitor" }
+]
+readme = "README.md"               
+license = { file = "LICENSE" }    
+keywords = ["image", "processing", "python"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+requires-python = ">=3.7"
+
+[project.dependencies]
+pillow = ">=11.2.1"

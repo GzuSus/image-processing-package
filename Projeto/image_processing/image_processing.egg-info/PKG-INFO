@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: image-processing
+Version: 0.1
+Summary: Pacote simples para processamento de imagens com Python
+Home-page: https://github.com/seu-usuario/image-processing
+Author: Seu Nome
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+# image-processing
+
+Pacote simples para processamento bÃ¡sico de imagens com Python.
+
+## Funcionalidades
+
+- Abrir imagem
+- Salvar imagem
+- Converter imagem para tons de cinza
+- Redimensionar imagem
+- Aplicar filtro de contorno
+
+## InstalaÃ§Ã£o
+
+```bash
+pip install image-processing
